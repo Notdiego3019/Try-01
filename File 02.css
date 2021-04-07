@@ -35,7 +35,7 @@ a {
   color:white;
 }
 
-/* Callout box - fixed position at the bottom of the page */
+/* Callout box - fixed position at the top of the page */
 .callout {
   position: relative;
   bottom: 35px;
